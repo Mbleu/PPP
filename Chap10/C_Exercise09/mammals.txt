@@ -1,0 +1,10 @@
+bat
+cow
+elephant
+human
+kangaroo
+lion
+platypus
+rat
+rhino
+whale

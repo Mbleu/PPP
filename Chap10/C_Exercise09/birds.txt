@@ -1,0 +1,10 @@
+crow
+dove
+kite
+owl
+parrot
+penguin
+quail
+raven
+robin
+swan
